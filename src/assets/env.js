@@ -2,8 +2,8 @@
   window["env"] = window["env"] || {};
 
   // BackEnd Environment variables
-  window['env']['fineractApiUrls'] = '';
-  window['env']['fineractApiUrl'] = '';
+  window['env']['fineractApiUrls'] = 'https://sandbox.mifos.community';
+  window['env']['fineractApiUrl'] = 'https://sandbox.mifos.community';
 
   window['env']['apiProvider'] = '';
   window['env']['apiVersion'] = '';
